@@ -1,4 +1,4 @@
 # install
 You need node.js and npm <br>
-npm install
+npm install <br>
 npm run dev
